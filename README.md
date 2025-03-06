@@ -9,6 +9,7 @@ Django (Python)
 ## Database
 
 SQLite 
+PostgreSQL
 
 ## Description
 
