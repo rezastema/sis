@@ -7,8 +7,7 @@ Student Information Systems (SIS)
 Django (Python)
 
 ## Database
-
-SQLite 
+ 
 PostgreSQL
 
 ## Description
